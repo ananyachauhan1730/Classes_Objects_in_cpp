@@ -1,6 +1,7 @@
 # Classes_Objects_in_cpp
 
-# ◽Aim: To study and implement Object-Oriented Programming (OOP) concepts in C++.
+# ◽Aim:
+To study and implement Object-Oriented Programming (OOP) concepts in C++.
 
 # ◽Tools: VS Code.
 
